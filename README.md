@@ -1,2 +1,2 @@
-# Mathematical modeling
+# 数学建模
 记录数学建模常用的算法代码和matlab相关知识
